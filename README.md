@@ -3,8 +3,10 @@
 Learning first commands in Selenium (WebDriver) with Python 
 <br/><br/>
 The program will test a "Log in" page to check if a error message will be displayed for wrong email/password.<br/>
+<br/>
 Developer: Cornel Cristea<br/>
-Tools used: Selenium (WebDriver), Visual Studio Code, Git<br/><br/>
+Tools used: Selenium (WebDriver), Visual Studio Code<br/>
+Programming languages: Python<br/><br/>
 
 Update history:<br/>
 v3.1 - add two tests in code (one will be failed and one will be skipped)<br/>
